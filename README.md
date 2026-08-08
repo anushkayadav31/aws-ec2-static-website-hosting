@@ -6,6 +6,7 @@ This project demonstrates how I hosted a web application on an Ubuntu EC2 instan
 
 The project includes EC2 instance creation, Security Group configuration, SSH connection, Apache installation, deployment of a simple web application, and accessing the application through the EC2 Public IPv4 address.
 
+
 🛠️ Technologies Used
 Amazon EC2
 Ubuntu Linux
@@ -13,6 +14,8 @@ Apache Web Server
 SSH
 HTML
 AWS Security Groups
+
+
 🏗️ Architecture
 
 User
@@ -26,6 +29,8 @@ Security Group
 Apache Web Server
 ↓
 Web Application
+
+
 
 🚀 Steps Performed
 1. Created an EC2 Instance
