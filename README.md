@@ -117,4 +117,19 @@ http://YOUR-EC2-PUBLIC-IP
 
 The web application was successfully displayed in the browser.🎉
 
+🎯 Key Learnings
+Learned how to launch and configure an Ubuntu EC2 instance on AWS.
+Learned how to configure Security Group rules for SSH (port 22) and HTTP (port 80).
+Learned how to connect to an EC2 instance using SSH.
+Learned how to install and configure the Apache web server on Ubuntu.
+Learned how to create and deploy a simple HTML web application.
+Learned how to configure and test a custom 404 error page.
+Learned how to access a web application using the EC2 Public IP address.
+Gained practical experience with Linux commands and AWS EC2 networking.
+
+✅ Project Status
+
+Completed successfully.
+
+The web application was successfully hosted on an Ubuntu EC2 instance using Apache Web Server. The application was tested through the EC2 Public IP, and a custom 404 error page was also configured and tested.
 
