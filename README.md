@@ -117,40 +117,4 @@ http://YOUR-EC2-PUBLIC-IP
 
 The web application was successfully displayed in the browser.🎉
 
-## 📸 Screenshots
 
-### 1. Created EC2 Instance
-
-![Created EC2 Instance](Screenshots%201/1-%20Created%20EC2%20Instance.png)
-
-### 2. Configured Security Group
-
-![Configured Security Group](Screenshots%201/2-%20Configured%20Security%20Group.png)
-
-### 3. Connected Through SSH
-
-![Connected Through SSH](Screenshots%201/3-%20Connected%20through%20SSH.png)
-
-### 4. Installed Apache
-
-![Installed Apache](Screenshots%201/4-%20Installed%20Apache.png)
-
-### 5. Tested Apache
-
-![Tested Apache](Screenshots%201/5-%20Tested%20Apache.png)
-
-### 6. Created Website Files
-
-![Created Website Files](Screenshots%201/6-%20Create%20website%20files.png)
-
-### 7. Configured Custom 404 Page
-
-![Configured Custom 404 Page](Screenshots%201/7-%20Configured%20custom%20404%20page.png)
-
-### 8. Tested Website Through Public IP
-
-![Tested Website Through Public IP](Screenshots%201/8-%20Tested%20Website%20through%20Public%20IP.png)
-
-### 9. Tested Error Page
-
-![Tested Error Page](Screenshots%201/9-%20Tested%20error%20page.png)
