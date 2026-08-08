@@ -116,3 +116,41 @@ Finally, I accessed the web application through the EC2 instance's Public IPv4 a
 http://YOUR-EC2-PUBLIC-IP
 
 The web application was successfully displayed in the browser.🎉
+
+## 📸 Screenshots
+
+### 1. Created EC2 Instance
+
+![Created EC2 Instance](<Screenshots 1/1- Created EC2 Instance.png>)
+
+### 2. Configured Security Group
+
+![Configured Security Group](<Screenshots 1/2- Configured Security Group.png>)
+
+### 3. Connected Through SSH
+
+![Connected Through SSH](<Screenshots 1/3- Connected through SSH.png>)
+
+### 4. Installed Apache
+
+![Installed Apache](<Screenshots 1/4- Installed Apache.png>)
+
+### 5. Tested Apache
+
+![Tested Apache](<Screenshots 1/5- Tested Apache.png>)
+
+### 6. Created Website Files
+
+![Created Website Files](<Screenshots 1/6- Create website files.png>)
+
+### 7. Configured Custom 404 Page
+
+![Configured Custom 404 Page](<Screenshots 1/7- Configured custom 404 page.png>)
+
+### 8. Tested Website Through Public IP
+
+![Tested Website Through Public IP](<Screenshots 1/8- Tested Website through Public IP.png>)
+
+### 9. Tested Error Page
+
+![Tested Error Page](<Screenshots 1/9- Tested error page.png>)
