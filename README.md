@@ -1,4 +1,5 @@
 AWS EC2 Web Application Hosting 🚀
+
 📌 Project Overview
 
 This project demonstrates how I hosted a web application on an Ubuntu EC2 instance using Apache Web Server.
